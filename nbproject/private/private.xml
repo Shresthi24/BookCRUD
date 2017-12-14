@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/meavita/config/app.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/resources/views/layouts/admission_platform/pages/applicant.blade.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/composer.json</file>
+            <file>file:/C:/xampp/htdocs/meavita/resources/views/layouts/admission_platform/pages/termscondition.blade.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/resources/views/resusable/footer.blade.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/resources/views/auth/login.blade.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/resources/views/layouts/admission_platform/pages/event.blade.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/.env</file>
+            <file>file:/C:/xampp/htdocs/meavita/resources/views/layouts/admission_platform/pages/mother.blade.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/resources/views/parentform.blade.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/resources/views/layouts/admission_platform/pages/father.blade.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/app/Http/Controllers/EventController.php</file>
+            <file>file:/C:/xampp/htdocs/meavita/app/Http/Controllers/MotherController.php</file>
+        </group>
+    </open-files>
+</project-private>
